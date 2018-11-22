@@ -22,7 +22,7 @@ channel.send(`كودزكودزكودزكودزكودزكودزكودزكودزك
 }, 25)
 })
 
-var prefix = "1";
+var prefix = "5";
 
 client.on('message', message => {
 
